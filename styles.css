@@ -24,7 +24,7 @@ body {
 
 .to-do-container {
   width: 310px;
-  height: 60%;
+  height: auto;
   background-color: #833297;
   border-radius: 20px;
   color: aliceblue;
